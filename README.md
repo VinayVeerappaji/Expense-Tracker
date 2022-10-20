@@ -1,2 +1,2 @@
 # Expense Tracker
-Created with CodeSandbox
+ To Track your expenses
